@@ -10,9 +10,6 @@ def display_board(board):
     print("----")
 
 
-test_board = ['#', 'X', 'O', 'X', 'O', 'X', 'O', 'X', 'O', 'X']
-
-
 # take in a player input and assign their marker as 'X' or 'O'
 def player_input():
     mark = ''
